@@ -1,1 +1,7 @@
 my blumenstock response
+
+Nowadays, big data can do lots of things for people. In the promise part, the author, blumenstock, gives three vivid examples of the applications of data in real life. First, data can help banks detect personal debts and get credit scores, which influences on whether they are willing to lend out money to a certain person. Second, some algorithms can identify poverty through people’s mobile phone data and satellites’ imagery, which suppose to provide useful information for countries to solve their poverty problems. However, people didn’t get a satisfying result in real life practice. Third, data can track personal footprints during an epidemic or how people were affected by natural disaster.
+
+There are also pitfalls with bid data. Firstly, real life examples from different parts of the world shows that unanticipated effects happen and the methods are not always helpful. Secondly, the pattern detected by data cannot be generalized and change a lot overtime, which shows the data is lack of validation. Thirdly, not everyone’s data is equally collected, which might lead to biased algorithms. Finally, some countries seldom pay attention to issues of data privacy, algorithmic transparency, fairness and accountability. 
+
+In order to improve on the application of data, we could gain new sources of data, make the algorithms more customized through collaboration between data scientists, government and different organizations and improve local technically capacity.
