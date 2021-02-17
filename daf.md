@@ -18,7 +18,7 @@ The author mentioned that “with adequate social opportunities, individuals can
 
 Amartya mentioned that the unfreedom in tractions and some other market actions can be a source of unfreedom itself, which means people are stopped from doing what they want to achieve under no proper reason. Markets is one of the main forces of driving the economic growth and personal wealth. So, being generically against the market could have a negative effect that will ‘restraining the expansion of substantive freedoms that would have been generated through the market system.’
 
-# #6.  What was the story of Kader Mia? What was the penalty of his economic unfreedom?
+## 6.  What was the story of Kader Mia? What was the penalty of his economic unfreedom?
 
 Kader Mia was a Muslim daily laborer who came to the city of Dhaka, which is a hostile area at that time, only for little money to raise his family. In the time that Hindus and Muslims were killing each other, Kader Mia was unfortunately killed with a knife in his back. The penalty of his economic unfreedom turned out to be death and leaving his family with nothing to survive.
 
