@@ -23,3 +23,5 @@ Amartya mentioned that the unfreedom in tractions and some other market actions 
 Kader Mia was a Muslim daily laborer who came to the city of Dhaka, which is a hostile area at that time, only for little money to raise his family. In the time that Hindus and Muslims were killing each other, Kader Mia was unfortunately killed with a knife in his back. The penalty of his economic unfreedom turned out to be death and leaving his family with nothing to survive.
 
 ## 7.Who were Condorcet and Malthus? What were their primary arguments regarding development and fertility?
+
+Condorcet was a French rationalist who argued that fertility rates would come down with the ‘progress of reason’, including greater security, more education, and more freedom of reflected decisions. Malthus, Condorcet’s contemporary had a different idea towards this question. Malthus argued that ‘there is no reason whatever to suppose that anything beside the difficulty of procuring in adequate plenty the necessaries of life should either indispose this greater number of persons to marry early, or disable them from rearing in health the largest families.’ 
