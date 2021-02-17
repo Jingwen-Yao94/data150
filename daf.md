@@ -1,6 +1,6 @@
 ## 1.	What is development?
 
-The author Amartya Sen first gave a definition in the first paragraph” it’s a process of expanding the real freedoms that people enjoy.” Furthermore, in author’s opinion, development is not just about gain in GDP and personal income in certain countries, but more about people’s desire and actions in gaining more political, social and all sorts of freedom in the society.
+The author Amartya Sen first gave a definition in the first paragraph” it’s a process of expanding the real freedoms that people enjoy.” Furthermore, in author’s opinion, development is not just about gain in GNP and personal income in certain countries, but more about people’s desire and actions in gaining more political, social and all sorts of freedom in the society.
 
 ## 2.	Is this an expansive or narrower view of development?
 
