@@ -6,7 +6,7 @@
 
 2.[Amartya Sen response](https://jingwen-yao94.github.io/data150/daf.html)
 
-3.[Owen Barder response]
+3.[Owen Barder response](https://jingwen-yao94.github.io/data150/ob.html)
 
 ## formal response
 
