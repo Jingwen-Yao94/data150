@@ -11,3 +11,5 @@
 ## formal response
 
 1.[Assignment1: Annotated Bibliography](https://jingwen-yao94.github.io/data150/ab.html)
+
+2.[Assignment2: Literature Review](https://jingwen-yao94.github.io/data150/a2.html)
