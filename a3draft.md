@@ -1,0 +1,7 @@
+**Introduction**
+
+As the rapid development of the society, transportation has been an indispensable part of human activities. However, some of the developing countries are facing with problems in constructing transportation systems. To improve the systems, intelligent transportation system has been developed and represent the future direction of the transportation system. Also, intelligent transportation systems also start looking at Big Data with great interests because of the success of big data analytics in various field. In this article, I will look at how Artificial Neural network (ANN) and Support vector machine (SVM) works in process of transportation development and evaluate their values.
+
+**Problem statement** 
+
+Some transportation problems exist that may harm individual people from different perspectives. Congestions on the road may lead to restrictions on car use in some urban areas, which limits people’s freedom in transportation. There’s also an increasing accident risks interacting with the congestion, which threatening people’s lives. Also, there can be lack of access to modern world in mountain areas and limited land resources that prevent cities from building new infrastructure such as highways and freeways. Though large percentages of some developing countries’ total expenditures are spent on transportation system, the situation has not been improved for several years. Incomplete ITS theory, insufficient research and the separated resources by industry barriers may be one of the reasons why traffic problems persist.
