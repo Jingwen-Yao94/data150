@@ -15,3 +15,5 @@
 1.[Assignment1: Annotated Bibliography](https://jingwen-yao94.github.io/data150/ab.html)
 
 2.[Assignment2: Literature Review](https://jingwen-yao94.github.io/data150/a2.html)
+
+2.[Assignment3](https://jingwen-yao94.github.io/data150/A3.html)
