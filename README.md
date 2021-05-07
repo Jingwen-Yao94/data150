@@ -16,4 +16,6 @@
 
 2.[Assignment2: Literature Review](https://jingwen-yao94.github.io/data150/a2.html)
 
-2.[Assignment3](https://jingwen-yao94.github.io/data150/A3.html)
+3.[Assignment3](https://jingwen-yao94.github.io/data150/A3.html)
+
+4.[Assignment4a](https://github.com/Jingwen-Yao94/data150/blob/main/DATAPRE.pptx)
