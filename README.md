@@ -19,3 +19,5 @@
 3.[Assignment3](https://jingwen-yao94.github.io/data150/A3.html)
 
 4.[Assignment4a: Presentation](https://github.com/Jingwen-Yao94/data150/blob/main/DATAPRE.pptx)
+
+5.[Assignment4b: Research Proposal](https://jingwen-yao94.github.io/data150/final.html)
