@@ -1,3 +1,8 @@
+**Research Proposal**
+
+Word count: 1809
+
+Jingwen Yao
 
 **Introduction**
 
@@ -35,6 +40,10 @@ The PSO algorithm is a global search strategy that uses the simple operation of 
 Finally, when considering a $100,000 budget as the limit for one-year exploratory phase, the first thing to mention is to spend the money in promoting the practical application of the traffic fatality model. The model is supported by all kinds of data like highway milage, real-time vehicle number and population size etc. and these data must be collected by sensors that installed on or near the road. Besides that, we also need to identify the cities and roads that we choose as our experimental sites. Thus, an estimated amount of $35,000 have to be spent on purchase, installation and maintenance of the data sources and $25,000 would be used to obtain permissions from governments on China since the requirement for those data might be refused if it may threaten public’s privacy. For the rest $40,000, half of which is expected to pay for the scientists that are working for collecting actual data on roads and applicate the fatality prediction model to see how effective the model is. Another $20,000 will be paid to another group of scientists whose efforts are made to deepen and improve the SVM model for accuracy. 
 
 Reference:
+
+Gu, Xiaoning, Li, Ting, Wang, Yonghui, Zhang, Liu, Wang, Yitian, and Yao, Jinbao. "Traffic Fatalities Prediction Using Support Vector Machine with Hybrid Particle Swarm Optimization." Journal of Algorithms & Computational Technology 12.1 (2018): 20-29. Web.
+
+Koornstra, Matthijs J. "Prediction of Traffic Fatalities and Prospects for Mobility Becoming Sustainable-safe." Sadhana (Bangalore) 32.4 (2007): 365-95. Web.
 
 
 
